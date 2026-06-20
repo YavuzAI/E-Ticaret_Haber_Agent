@@ -1,0 +1,27 @@
+.env
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Editor files
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Logs
+*.log
+
+# Local n8n runtime/cache artifacts
+n8n/.cache/
+
+
+# Folders 
+/notes
+
+
+#Files
+zgpt
+zgpt_sorular
+env_var
